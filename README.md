@@ -1,0 +1,2 @@
+# MMPCBench
+BenchmarkingMultimodalLargeLanguageModelsformissingmodalitycompletioninproductcatalogues
